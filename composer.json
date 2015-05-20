@@ -1,0 +1,17 @@
+{
+	"name": "wpFramework/Wordpress",
+	"description": "WordPress is web software you can use to create a beautiful website or blog.",
+	"keywords": ["wordpress", "blog", "cms"],
+	"type": "wordpress-core",
+	"homepage": "http://wordpress.org/",
+	"license": "["MIT"]",
+	"authors": [
+		{
+			"name": "WordPress Community",
+			"homepage": "http://wordpress.org/about/"
+		}
+	],
+	"require": {
+		"php": ">=5.3.2"
+	}
+}
